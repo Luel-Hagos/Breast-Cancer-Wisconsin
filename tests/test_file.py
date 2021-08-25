@@ -11,7 +11,7 @@ sys.path.append("../scripts/")
 
 from scripts.dataloader import data_loader
 
-df = data_loader('../data/data.csv')
+df = data_loader('./data/data.csv')
 
 
 class breastCancer(unittest.TestCase):
