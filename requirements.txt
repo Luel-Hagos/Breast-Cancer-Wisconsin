@@ -1,4 +1,4 @@
-seaborn
-matplotlib
 numpy
 pandas
+seaborn
+matplotlib
